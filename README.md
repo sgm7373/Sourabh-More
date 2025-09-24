@@ -1,6 +1,6 @@
 # Hi there! I'm Sourabh More 👋  
 
-![Profile Picture](https://github.com/yourusername/yourrepo/blob/main/photo.jpg)
+![Profile Picture](https://github.com/yourusername/yourrepo/blob/main/photo.jpeg)
 
 
 
