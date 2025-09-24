@@ -1,6 +1,7 @@
 # Hi there! I'm Sourabh More 👋  
 
-![Profile Picture](https://avatars.githubusercontent.com/yourusername)
+![Profile Picture](https://github.com/yourusername/yourrepo/blob/main/photo.jpg)
+
 
 
 🎓 **MS CS @ Oregon State University**  
