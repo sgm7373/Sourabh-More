@@ -1,8 +1,6 @@
 # Hi there! I'm Sourabh More 👋  
 
-![Profile Picture](https://github.com/yourusername/yourrepo/blob/main/photo.jpeg)
-
-
+![Profile Picture](./photo.jpg)
 
 🎓 **MS CS @ Oregon State University**  
 💻 **Data & Simulation Engineer | FEM Analysis | AI & Data Analytics**  
