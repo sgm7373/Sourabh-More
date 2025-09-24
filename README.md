@@ -1,6 +1,6 @@
 # Hi there! I'm Sourabh More 👋  
 
-![Profile Picture](./photo.jpeg) <!-- Replace "yourphoto.png" with your actual file name -->
+![Profile Picture](./photo.jpeg) 
 
 🎓 **MS CS @ Oregon State University**  
 💻 **Data & Simulation Engineer | FEM Analysis | AI & Data Analytics**  
@@ -44,12 +44,6 @@ I’m passionate about transforming both numerical and physical data into **mean
 - **AI & ML:** Machine Learning, TDA, Tensor Analysis  
 - **Other Tools:** Git, GitHub, Jupyter, Google Colab  
 
----
-
-## 📊 GitHub Stats  
-
-![Sourabh’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)  
 
 ---
 
