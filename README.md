@@ -1,6 +1,6 @@
 # Hi there! I'm Sourabh More 👋  
 
-![Profile Picture](./photo.jpg)
+![Profile Picture](./photo.jpeg)
 
 🎓 **MS CS @ Oregon State University**  
 💻 **Data & Simulation Engineer | FEM Analysis | AI & Data Analytics**  
